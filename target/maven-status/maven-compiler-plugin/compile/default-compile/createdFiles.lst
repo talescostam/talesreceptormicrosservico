@@ -1,0 +1,5 @@
+com\senac\TalesReceptorMicroservico\TalesReceptorMicroservicoApplication.class
+com\senac\TalesReceptorMicroservico\entitiy\Zap.class
+com\senac\TalesReceptorMicroservico\repositories\ZapRepository.class
+com\senac\TalesReceptorMicroservico\services\ZapService.class
+com\senac\TalesReceptorMicroservico\config\MQConfig.class
